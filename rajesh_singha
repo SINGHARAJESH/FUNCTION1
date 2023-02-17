@@ -1,0 +1,2 @@
+Multithreading refers to concurrently executing multiple threads by rapidly switching the control of the CPU between threads (called context switching).
+fThe Python Global Interpreter Lock limits one thread to run at a time even if the machine contains multiple processors.
